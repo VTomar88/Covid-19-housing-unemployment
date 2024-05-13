@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Covid-19 on House Price Index Due to possible Impact of Employment
+# Exploratory Data Analysis of Covid-19 impact on Unemployement rate and Hosuing Price Index
 ## Varsha Tomar
 https://github.com/VTomar88/Covid-19-housing-unemployment.git
 
